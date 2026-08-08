@@ -1,0 +1,12 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/Dinidu21/config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/Dinidu21/eureka-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Dinidu21/api-gateway.git
+[submodule "config-repo"]
+	path = config-repo
+	url = https://github.com/Dinidu21/config-repo.git
