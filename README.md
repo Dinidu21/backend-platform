@@ -2,6 +2,13 @@
 
 Platform infrastructure layer for the EventSphere microservices architecture. This directory contains the foundational services that enable service discovery, centralized configuration, and API routing across all backend microservices.
 
+## Student Information
+
+- **Student Name:** Dinidu Sachintha
+- **Student Number:** 241711028
+- **Slack Handle:** [U0BF767MA4S](https://ijse-eca-hdse-71-72.slack.com/team/U0BF767MA4S)
+- **GCP Project ID:** eventsphere-504909
+
 ## Components
 
 ### Eureka Server
